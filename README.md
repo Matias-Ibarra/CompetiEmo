@@ -1,11 +1,11 @@
 # CompetiEmo
 Competición de Kaggle sobre detección de emociones.
 
-[emociones](./img/emociones.jpg)
+[emociones]("./img/emociones.jpg")
 
 [Enlace](https://www.kaggle.com/competitions/emodecode-3000) a la competición en Kaggle. La carpeta de datos no forma parte del repositorio por una cuestión de memoria.
 
-Descripción:
+### Descripción:
 
 Reconocimiento de Expresiones Faciales
 
@@ -18,6 +18,9 @@ Las imágenes ya están en blanco y negro, tienen un tamaño de 48x48 y tienen l
 Ahora tienes herramientas como OpenCV, NN y CNN para mejorar tu última competencia.
 
 ¿Estás feliz? ¿Estás triste? ¿Estás enojado o quieres matar a alguien? ¡Vamos a darle un toque de humor a esto!
+
+
+### Modelo:
 
 ```python
 
@@ -72,7 +75,7 @@ model = keras.Sequential([
 
 Matriz predicciones vs valor real:
 
-[Matriz](./img/matriz.png)
+[Matriz]("./img/matriz.png")
 
 Resultados de la competición ---> [Enlace](https://www.kaggle.com/competitions/emodecode-3000/leaderboard)
 
