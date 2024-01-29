@@ -1,7 +1,7 @@
 # CompetiEmo
 Competición de Kaggle sobre detección de emociones.
 
-[emociones]("./img/emociones.jpg")
+![emociones](./img/emociones.jpg)
 
 [Enlace](https://www.kaggle.com/competitions/emodecode-3000) a la competición en Kaggle. La carpeta de datos no forma parte del repositorio por una cuestión de memoria.
 
@@ -73,9 +73,11 @@ model = keras.Sequential([
 
 ```
 
-Matriz predicciones vs valor real:
+### Matriz predicciones vs valor real:
 
-[Matriz]("./img/matriz.png")
+![Matriz](./img/matriz.png)
+
+### Resultados:
 
 Resultados de la competición ---> [Enlace](https://www.kaggle.com/competitions/emodecode-3000/leaderboard)
 
