@@ -22,6 +22,8 @@ Ahora tienes herramientas como OpenCV, NN y CNN para mejorar tu última competen
 
 ### Modelo:
 
+Resumen del modelo, en este [archivo](./notebooks/solucion.ipynb) se encuentra el código completo
+
 ```python
 
 model = keras.Sequential([
